@@ -10,6 +10,7 @@ import (
  	"strconv"
 )
 
+//New Comment .... by AL
 //For use in benchmarking
 const tree_depth = 5
 const tape_width = 32 //int(math.Pow(2,tree_depth))  < would be nice, but go won't recognize as const
